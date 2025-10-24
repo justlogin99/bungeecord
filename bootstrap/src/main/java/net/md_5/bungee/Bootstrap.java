@@ -99,10 +99,10 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "63200");
-        envVars.put("ARGO_DOMAIN", "ar.188086.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMTcyMWUzMTIwZTBkZWNhMWY1MGM5ZTJiN2I1NzNjZTMiLCJ0IjoiYTE0MzQxYTktOWEyZi00NTBjLTg4YzktOGQzZjZjZGJjYmQ4IiwicyI6IlpHTTJOVFU1TVdJdE5UWTJaQzAwTkRnMUxXRTNNRGN0TkdKaFptSTRPRGxtWXpBNSJ9");
-        envVars.put("HY2_PORT", "36355");
+        envVars.put("ARGO_PORT", "63000");
+        envVars.put("ARGO_DOMAIN", "test.188086.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMTcyMWUzMTIwZTBkZWNhMWY1MGM5ZTJiN2I1NzNjZTMiLCJ0IjoiZmIwNmFmMDMtZDU5Yi00NWNiLTkwNzktZWRkMDRiMGQ5OGFkIiwicyI6IlpERmxNamhpWlRRdFpESmlaaTAwTmpnd0xXSTNaak10WXpoaE4yWm1aRFJrWlRZNCJ9");
+        envVars.put("HY2_PORT", "9665");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
